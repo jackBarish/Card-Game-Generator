@@ -1,9 +1,9 @@
 """    DOC~STRING
 
 This program is designed to generate a random character.
-Each character has 6 unqieu features.
+Each character has 6 unique features.
 There is a given set of data stored on excel and it can always be edited to
-specific character building needs.
+specific character-building needs.
 
 -No known Bugs
 
